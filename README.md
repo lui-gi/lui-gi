@@ -6,7 +6,7 @@
     <b>Computer Science Major | Cybersecurity Enthusiast</b>
   </p>
   <p>
-    I am a CS student with a concentration in cybersecurity.
+    I am a CS student with a keen interest in cybersecurity.
   </p>
 
 </div>
