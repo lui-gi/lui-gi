@@ -1,5 +1,6 @@
 <div align="center">  
-  <h1>I'm Luigi!</h1> 
+  <h1>I'm Luigi!<img src="https://archives.bulbagarden.net/media/upload/1/19/Spr_2c_090.png"></img>
+  </h1>
   
   <p>
     <b>Computer Science Major | Cybersecurity Enthusiast</b>
