@@ -38,12 +38,6 @@ Evolution of standard Pomodoro timers, incorporates science-based study techniqu
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lui-gi&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## Connect
 
 I'm always interested in discussing anything tech-related as well as anything cybersecurity-related.
