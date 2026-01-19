@@ -46,6 +46,6 @@ Evolution of standard Pomodoro timers, incorporates science-based study techniqu
 
 ## Connect
 
-I'm always interested in collaborating on cybersecurity projects or discussing educational technology.
+I'm always interested in discussing anything tech-related as well as anything cybersecurity-related.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luigi-fernandez-502647333/)
