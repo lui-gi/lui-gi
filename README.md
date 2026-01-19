@@ -1,40 +1,51 @@
-<div align="center">  
-  <h1>I'm Luigi!<img src="https://archives.bulbagarden.net/media/upload/1/19/Spr_2c_090.png"></img>
-  </h1>
-  
-  <p>
-    <b>Computer Science Major | Cybersecurity Enthusiast</b>
-  </p>
-  <p>
-    I am a CS student with a keen interest in cybersecurity.
-  </p>
+# Luigi Fernandez
 
-</div>
+**Computer Science Student** @ Georgia State University | **Interested in Cybersecurity**
 
 ---
 
-###  Founder of Shelnet
-I created **[Shelnet.org](https://shelnet.org)** with a simple mission: **to deliver free, high-quality cybersecurity content to everyone.** 
-* 🌐 **Platform:** A central hub for study resources and guides.
-* 🎯 **Goal:** Breaking down barriers to entry in the tech industry.
-* 🛠️ **Under the Hood:** Vite, React, Tailwind CSS
+## About Me
+
+I'm a sophomore CS student passionate about cybersecurity and building tools that make technical concepts more accessible. I focus on creating educational resources and developing practical security skills through hands-on projects.
+
+**Currently:**
+- Learning Metasploit framework and penetration testing techniques
+- Building a homelab environment with pfSense firewall and vulnerable machines for security research
+- Maintaining [Shelnet](https://shelnet.org) and expanding its cybersecurity education resources
 
 ---
 
-###  What I Build
-My projects focus on practical applications of networking concepts, system automation, and security tools.
+## Featured Projects
 
-* **Pwnagotchi Mods:** In progress
-* **Port Scanner:** In progress
+### [Shelnet](https://shelnet.org)
+An educational cybersecurity hub providing free resources, video walkthroughs, and study guides for CompTIA certifications. Built with React and Tailwind CSS.
 
----
+### [GSU DSA Visualizer](https://lui-gi.github.io/gsu-dsa)
+A university-dedicated tool that visualizes complex data structures and algorithms to help students better understand course concepts.
 
-###  Current Tech Stack & Tools
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-</p>
+### neurotimer (In Progress)
+Evolution of standard Pomodoro timers, incorporates science-based study techniques such as interleaving, chunking, and priming (among many others) into a study timer to maximie learning efficiency.
 
 ---
 
+## Technical Interests
+
+**Cybersecurity:** Network forensics, penetration testing, CTF competitions  
+**Development:** React, Python, embedded systems  
+**Education:** Creating accessible learning tools for technical topics
+
+**Recent Achievement:** Ranked Top 20 Nationwide in USCC Cyber Quest (Winter 2025)
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lui-gi&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+## Connect
+
+I'm always interested in collaborating on cybersecurity projects or discussing educational technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luigi-fernandez-502647333/)
