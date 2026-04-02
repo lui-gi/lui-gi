@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a sophomore CS student passionate about cybersecurity and building tools that make technical concepts more accessible. I focus on creating educational resources and developing practical security skills through hands-on projects.
+I'm a CS student passionate about cybersecurity and building tools that make technical concepts more accessible. I focus on creating educational resources and developing practical security skills through hands-on projects.
 
 **Currently:**
 - Learning Metasploit framework and penetration testing techniques
