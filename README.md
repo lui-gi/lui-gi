@@ -1,6 +1,6 @@
 # Luigi Fernandez
 
-**Computer Science Student** @ Georgia State University | **Cybersecurity**
+**cs @ gsu**
 
 ---
 
