@@ -1,4 +1,4 @@
-<img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/807a6271-66fa-4957-9471-22fb9a2f08df" /># Luigi Fernandez - cs @ gsu
+# Luigi Fernandez - cs @ gsu
 
 ## about me
 
