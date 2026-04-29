@@ -1,17 +1,12 @@
 # Luigi Fernandez
 
-**Computer Science Student** @ Georgia State University | **Interested in Cybersecurity**
+**Computer Science Student** @ Georgia State University | **Cybersecurity**
 
 ---
 
 ## About Me
 
-I'm a CS student passionate about cybersecurity and building tools that make technical concepts more accessible. I focus on creating educational resources and developing practical security skills through hands-on projects.
-
-**Currently:**
-- Learning Metasploit framework and penetration testing techniques
-- Building a homelab environment with pfSense firewall and vulnerable machines for security research
-- Maintaining [Shelnet](https://shelnet.org) and expanding its cybersecurity education resources
+i'm a cs student specializing in cybersecurity. learned a wide variety of network & security tools. my favorite tool is burp suite. i love monster hunter freedom unite & xenoblade
 
 ---
 
@@ -23,20 +18,6 @@ An educational cybersecurity hub providing free resources, video walkthroughs, a
 ### [GSU DSA Visualizer](https://lui-gi.github.io/gsu-dsa)
 A university-dedicated tool that visualizes complex data structures and algorithms to help students better understand course concepts.
 
-### neurotimer (In Progress)
-Evolution of standard Pomodoro timers, incorporates science-based study techniques such as interleaving, chunking, and priming (among many others) into a study timer to maximie learning efficiency.
-
----
-
-## Technical Interests
-
-**Cybersecurity:** Network forensics, penetration testing, CTF competitions  
-**Development:** React, Python, embedded systems  
-**Education:** Creating accessible learning tools for technical topics
-
-**Recent Achievement:** Ranked Top 20 Nationwide in USCC Cyber Quest (Winter 2025)
-
----
 
 ## Connect
 
