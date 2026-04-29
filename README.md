@@ -1,20 +1,17 @@
-# Luigi Fernandez - cs @ gsu
+<img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/807a6271-66fa-4957-9471-22fb9a2f08df" /># Luigi Fernandez - cs @ gsu
 
 ## about me
 
 i'm a cs student specializing in cybersecurity. learned a wide variety of network & security tools. my favorite tool is burp suite. i love monster hunter freedom unite & xenoblade
 
-## featured 
+## future plans
 
-### [Shelnet](https://shelnet.org)
-An educational cybersecurity hub providing free resources, video walkthroughs, and study guides for CompTIA certifications. Built with React and Tailwind CSS.
+```mermaid
+flowchart TD
+    A([priority 1: pass security+])
 
-### [GSU DSA Visualizer](https://lui-gi.github.io/gsu-dsa)
-A university-dedicated tool that visualizes complex data structures and algorithms to help students better understand course concepts.
-
-
-## connect
-
-i'm always interested in discussing anything tech related. bonus if it's about thinkpads, monster hunter, or xenoblade
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luigi-fernandez-502647333/)
+    A --> B[aws & splunk\nsoc lab · splunk queries\nreal network logs\naws architecture]
+    A --> C[crowdstrike falcon\nenterprise tooling lab\nvirtualized network on thinkpad\nfalcon on 2+ endpoints\nrealistic traffic simulation]
+    A --> D[malware analysis\nflareevm or capa\nstatic & dynamic analysis]
+    A --> E[bug bounty\nhunt beyond idor\nexpand scope & frequency]
+```
