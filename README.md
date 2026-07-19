@@ -8,7 +8,7 @@ i'm a cs student specializing in cybersecurity. learned a wide variety of networ
 
 ```mermaid
 flowchart TD
-    A([priority 1: pass security+])
+    A([priority 1: pass CySA+ & PenTest+])
 
     A --> B[aws & splunk\nsoc lab · splunk queries\nreal network logs\naws architecture]
     A --> C[crowdstrike falcon\nenterprise tooling lab\nvirtualized network on thinkpad\nfalcon on 2+ endpoints\nrealistic traffic simulation]
