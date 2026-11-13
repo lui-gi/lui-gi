@@ -13,6 +13,8 @@ i love monster hunter freedom unite, xenoblade, pokemon, persona.
 ## ctfs
 
 - **us cyber challenge:** got into the eastern cyber camp through cyberquest, placed 2nd in the capstone ctf, and got invited to the us cyber bowl
+- **uscc cyber bowl:** cont. of ^ , earned 1st place with my team at a national level, this ctf combined a vulnerability remediation presentation with a 12-hour ctf featuring network exploitation
+    - conducted risk assessment and business impact analysis of CVE-2026-20127 in a large retailer’s SD-WAN scenario, evaluating the potential operational and business consequences of exploitation for the team’s vulnerability remediation presentation
 - **ncl spring 2026:** top 10% individual (724/7,006), top 6% team (224/3,638)
 - **ncl fall 2026:** need to pull the stats up again but we got top 75 for team game this time
 
