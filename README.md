@@ -1,17 +1,24 @@
-# Luigi Fernandez - cs @ gsu
+# luigi fernandez - cs @ gsu
 
 ## about me
 
-i'm a cs student specializing in cybersecurity. learned a wide variety of network & security tools. my favorite tool is burp suite. i love monster hunter freedom unite & xenoblade
+i'm a cs student specializing in cybersecurity. incoming cyber intern @ capital one
 
-## future plans
+i frequently compete in ctf competitions, and i most enjoy web app exploitation/pentesting.
+
+learned a wide variety of network & security tools. my favorite tool is burp suite, with nmap at a close second.
+
+i love monster hunter freedom unite, xenoblade, pokemon, persona.
+
+## roadmap
 
 ```mermaid
 flowchart TD
-    A([priority 1: pass CySA+ & PenTest+])
+    A([step 1: tryhackme web1\nweb application penetration tester])
+    B[ongoing: hackthebox\nmachines · sherlocks]
+    C([step 2: htb cpts\ncertified penetration testing specialist])
 
-    A --> B[aws & splunk\nsoc lab · splunk queries\nreal network logs\naws architecture]
-    A --> C[crowdstrike falcon\nenterprise tooling lab\nvirtualized network on thinkpad\nfalcon on 2+ endpoints\nrealistic traffic simulation]
-    A --> D[malware analysis\nflareevm or capa\nstatic & dynamic analysis]
-    A --> E[bug bounty\nhunt beyond idor\nexpand scope & frequency]
+    A --> C
+    B -.-> A
+    B -.-> C
 ```
