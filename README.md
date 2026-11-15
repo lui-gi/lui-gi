@@ -26,9 +26,9 @@ planned: tryhackme web1 · hackthebox cpts
 
 ## stuff i use
 
-- **security:** burp suite, nmap, wireshark, ghidra, bloodhound, netexec, cyberchef
-- **blue side:** splunk, elastic, crowdstrike falcon, tenable, security onion
-- **languages:** python, bash, powershell, go, c, java, sql
+- **general security:** burp suite, nmap, wireshark, ghidra, bloodhound, netexec, cyberchef
+- **soc side:** splunk, elastic, crowdstrike falcon, tenable, security onion
+- **languages:** python, bash/zsh, powershell, c, java, sql
 
 ## roadmap
 
